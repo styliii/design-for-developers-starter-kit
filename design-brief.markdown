@@ -1,13 +1,14 @@
 # [ProjectName] Design Brief
 
 ## A brief summary of the business / site goals.
-*What problems are you trying to solve? What is the purpose of the app? (2-3 sentences)*
+An aggregate schedule of yoga classes, curated by a yoga snob.  The app solves the problem of finding fantastic teachers at different studios.  It should also encourage me to discover more yoga teachers to add to the list.
 
 ## The key users.
-*Describe behaviors, expectation, knowledge, or other characteristics. (One sentence each)*
+Yogis that are trying to fit their 1.5 hours of refuge into their busy schedules.  
 
 ## Scenarios in which your app or site will be used.
-*These should be short narratives of the above users with your app / site. (One sentence each)*
+They should be able to get to the site quickly, process the class information easily and add class details to their calendars.
 
 ## Design style guidelines to follow.
-*These are a list of qualities or characteristics (usually adjectives) you'd like the design to follow. The more specific you are with these the easier it will be for you to create a compelling design (e.g. don't use "Clean"). (2-3 words)*
+- Calming
+- Connected to the world (an analog feel)
