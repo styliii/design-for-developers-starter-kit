@@ -26,6 +26,13 @@ body { text-align: center; font-family: $helvetica; }
 
 
 //styling
+.main-container {
+  background-image: url('../images/vrksasana.png');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
 ol { padding-left: 0;}
 li.class-info { 
   list-style-type: none;

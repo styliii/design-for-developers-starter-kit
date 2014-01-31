@@ -131,17 +131,26 @@ body {
 }
 
 /* line 29, ../sass/style.scss */
+.main-container {
+  background-image: url("../images/vrksasana.png");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+/* line 36, ../sass/style.scss */
 ol {
   padding-left: 0;
 }
 
-/* line 30, ../sass/style.scss */
+/* line 37, ../sass/style.scss */
 li.class-info {
   list-style-type: none;
   padding: 10px;
 }
 
-/* line 34, ../sass/style.scss */
+/* line 41, ../sass/style.scss */
 .date {
   *zoom: 1;
   border-bottom: thin solid gray;
@@ -157,7 +166,7 @@ li.class-info {
   clear: both;
 }
 
-/* line 39, ../sass/style.scss */
+/* line 46, ../sass/style.scss */
 .schedule-container {
   padding-bottom: 20px;
 }
